@@ -1,2 +1,3 @@
-# Fibonacchi
-Runnen via php in terminal
+# Fibonacchi en Tafelkaart
+Fibonacchi runnen via php in terminal
+Tafelkaart runnen via Wamp of Xampp
